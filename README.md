@@ -9,6 +9,38 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/), building an API in whi
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20Lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+🌆 Daytime    146 commits    ████████░░░░░░░░░░░░░░░░░   33.03% 
+🌃 Evening    117 commits    ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+🌙 Night      140 commits    ████████░░░░░░░░░░░░░░░░░   31.67%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Code Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 <!--
 **aarnphm/aarnphm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
