@@ -11,15 +11,15 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/), building an API in whi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20million%20Lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌆 Daytime    146 commits    ████████░░░░░░░░░░░░░░░░░   33.03% 
-🌃 Evening    117 commits    ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-🌙 Night      140 commits    ████████░░░░░░░░░░░░░░░░░   31.67%
+🌞 Morning    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
+🌆 Daytime    148 commits    ████████░░░░░░░░░░░░░░░░░   33.11% 
+🌃 Evening    119 commits    ██████░░░░░░░░░░░░░░░░░░░   26.62% 
+🌙 Night      141 commits    ████████░░░░░░░░░░░░░░░░░   31.54%
 
 ```
 
@@ -30,13 +30,17 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/), building an API in whi
 ⌚︎ Time zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       7 hrs 20 mins       ███████████████████████░░   93.45% 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+VimL                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Code Editors: 
-No Activity Tracked This Week
+Vim                      7 hrs 51 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
