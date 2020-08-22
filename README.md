@@ -4,13 +4,11 @@
 I am a software developer from Hanoi, Vietnam. I spend countless hours improving my [dotfiles](https://github.com/aarnphm/dotfiles), working on side projects, drinking coffee, cooking and sometimes sending V5s in the climbing gym.
 
 ### What I'm working on
-Working remotely for [@gpay](http://gpay.vn/en/home_en/), building an API in which you can find [here](https://github.com/aarnphm/dha-pr)! On the side, i'm grinding out leetcode :worried:, working on improving [lightly](https://github.com/aarnphm/lightly-ocr) (backend and frontend), and tons of others stuff that might ... come ... one ... day =/
+Working remotely for [@gpay](http://gpay.vn/en/home_en/), working with infrastructure and backend API! On the side, i'm grinding out leetcode :worried:, working on improving [lightly](https://github.com/aarnphm/lightly-ocr) (backend and frontend), and tons of others stuff that might ... come ... one ... day =/
 
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
