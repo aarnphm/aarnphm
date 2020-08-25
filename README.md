@@ -6,7 +6,7 @@
 I am a software developer from Hanoi, Vietnam. I spend countless hours improving my [dotfiles](https://github.com/aarnphm/dotfiles), working on side projects, drinking coffee, cooking and sometimes sending V5s in the climbing gym.
 
 ### What I'm working on
-Working remotely for [@gpay](http://gpay.vn/en/home_en/), building an API in which you can find [here](https://github.com/aarnphm/dha-pr)! On the side, i'm grinding out leetcode :worried:, working on improving [lightly](https://github.com/aarnphm/lightly-ocr) (backend and frontend), and tons of others stuff that might ... come ... one ... day =/
+Working remotely for [@gpay](http://gpay.vn/en/home_en/). On the side, i'm grinding out leetcode :worried:, working some projects, and tons of others stuff that might ... come ... one ... day =/
 
 
 
