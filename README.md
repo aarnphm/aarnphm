@@ -13,7 +13,7 @@
 I am a software developer from Hanoi, Vietnam. I spend countless hours improving my [dotfiles](https://github.com/aarnphm/dotfiles), working on side projects, drinking coffee, cooking and sometimes sending V5s in the climbing gym.
 
 ### What I'm working on
-Working remotely for [@gpay](http://gpay.vn/en/home_en/). On the side, i'm grinding out leetcode :worried:, working some projects, and tons of others stuff that might ... come ... one ... day =/
+Working remotely for [@gpay](http://gpay.vn/en/home_en/) and a fellow [@MLH](https://github.com/MLH-Fellowship/) working on [BentoML](https://github.com/bentoml/BentoML). On the side, i'm grinding out leetcode :worried:, working some projects, and tons of others stuff that might ... come ... one ... day =/
 
 
 
