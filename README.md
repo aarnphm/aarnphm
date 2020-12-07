@@ -18,15 +18,15 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/) and a fellow [@MLH](htt
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+🌞 Morning    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 🌆 Daytime    52 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
 🌃 Evening    57 commits     ██████░░░░░░░░░░░░░░░░░░░   27.4% 
-🌙 Night      75 commits     █████████░░░░░░░░░░░░░░░░   36.06%
+🌙 Night      74 commits     █████████░░░░░░░░░░░░░░░░   35.58%
 
 ```
 
