@@ -18,7 +18,7 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/) and a fellow [@MLH](htt
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -37,15 +37,15 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/) and a fellow [@MLH](htt
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Lua                      4 mins              ███████████████████░░░░░░   78.16% 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
+Lua                      1 min               ███████████████░░░░░░░░░░   60.21% 
+TypeScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.08% 
+Bash                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.71%
 
 🔥 Editors: 
-Vim                      5 mins              █████████████████████████   100.0%
+Vim                      3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.0%
+Linux                    3 mins              █████████████████████████   100.0%
 
 ```
 
