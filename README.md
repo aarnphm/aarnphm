@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/l1J9LMNeWISnddECA/giphy.gif" align="right" width="24%" />
-
 ### Hi there 👋 i'm aaron :wolf:
 (he/him) 🇻🇳🇨🇦
 
