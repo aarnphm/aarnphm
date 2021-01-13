@@ -35,13 +35,13 @@ Working remotely for [@gpay](http://gpay.vn/en/home_en/) and a fellow [@MLH](htt
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.0%
 
 ```
 
