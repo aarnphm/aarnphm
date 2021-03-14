@@ -1,4 +1,6 @@
-### Hi there 👋 i'm Aaron :wolf:
+<p align="center">
+    <h1>Hi there 👋 i'm Aaron 🐍</h1>
+</p>
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
