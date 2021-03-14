@@ -1,6 +1,4 @@
-<p align="center">
-    <h1>Hi there 👋 i'm Aaron 🐍</h1>
-</p>
+<h1 align="center">Hi there 👋 i'm Aaron 🐍</h1>
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
