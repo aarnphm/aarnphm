@@ -9,15 +9,14 @@
 
 Welcome, hope you enjoy your stay. I'm a software developer who is curious about machine learning, infrastructure design, and building command line tools that help improve everyone's daily life. I'm currently studying Computer Engineering and Management @[McMaster](https://www.mcmaster.ca/).
 
-```javascript
-{
-    "schools": CEM @McMaster,
-    "prev": @MLH-Fellowship, @gpayvn,
-    "current": @bentoml + incoming @luxcer,
-    "location": Hanoi, 🇻🇳 | Hamilton, 🇨🇦,
-    "name": Aaron Pham,
-    "pronoun":he/him
-}
+```toml
+[personal]
+  schools = "CE&M @McMaster"
+  prev = "@MLH-Fellowship + @gpayvn"
+  current = "@bentoml + @luxcer"
+  location = "Hanoi, 🇻🇳 | Hamilton, 🇨🇦"
+  name = "Aaron Pham"
+  pronoun = "he/him"
 ```
 
 
