@@ -1,31 +1,19 @@
-<h1 align="center">Hi there 👋 i'm Aaron 🐍</h1>
+<b>Hi there 👋 i'm aaron. 🐍</b>&nbsp;<img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white">&nbsp;<img alt="Go" src="https://img.shields.io/badge/-Golang-46a2f1?style=flat-square&logo=go&logoColor=white">&nbsp;<img alt="VimL" src="https://img.shields.io/badge/-VimL-66d124?style=flat-square&logo=vim&logoColor=white">&nbsp;<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white">&nbsp;<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
 
-<p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/-Golang-46a2f1?style=flat-square&logo=go&logoColor=white" />
-    <img alt="VimL" src="https://img.shields.io/badge/-VimL-66d124?style=flat-square&logo=vim&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-1a73e8?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-</p>
 
-Welcome, hope you enjoy your stay. I'm a software developer who is curious about machine learning, infrastructure design, and building command line tools that help improve everyone's daily life. I'm currently studying Computer Engineering and Management @[McMaster](https://www.mcmaster.ca/).
+Welcome, hope you enjoy your stay. I'm a software developer who is curious about infrastructure design, cognitive system and accessible tech. I'm currently a 2A studying Computer Engineering and Management [@McMaster](https://www.mcmaster.ca/). Feel free to poke around.
 
 ```toml
 [personal]
-  schools = "CE&M @McMaster"
-  prev = "@MLH-Fellowship + @gpayvn"
-  current = "@bentoml + @luxcer"
+  edu = "Computer Engineering & Management"
+  current = "@mcmaster, @bentoml, @luxcer"
   location = "Hanoi, 🇻🇳 | Hamilton, 🇨🇦"
   name = "Aaron Pham"
   pronoun = "he/him"
 ```
+<!--<img src="https://github-readme-stats.vercel.app/api?username=aarnphm&show_icons=true&count_private=true&theme=dark" height="170"/>-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aarnphm&show_icons=true&count_private=true&theme=dark" height="170"/>
-</p>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
