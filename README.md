@@ -1,6 +1,6 @@
 <h2><b>Hi there i'm aaron. </b></h2>
 
-Welcome, hope you enjoy your stay. I'm a software developer who is curious about infrastructure design, cognitive system and accessible tech. I'm currently based at Hanoi, Vietnam, studying engineering [@mcmaster](https://www.mcmaster.ca/).
+Welcome, hope you enjoy your stay. I'm a software developer who is curious about system design, cognitive system and graph-related topics. I'm currently based at Hanoi, Vietnam, studying engineering [@mcmaster](https://www.mcmaster.ca/).
 
 ```toml
 [personal]
