@@ -13,6 +13,9 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 <!--<img src="https://github-readme-stats.vercel.app/api?username=aarnphm&show_icons=true&count_private=true&theme=dark" height="170"/>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **aarnphm/aarnphm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
