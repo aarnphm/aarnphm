@@ -14,6 +14,39 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 642 Contributions in the Year 2021
+ > 
+> 📦 559.9 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 15 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Bash                     10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.19% 
+Cheetah                  3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Other                    3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
+Lua                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.83% 
+Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aarnphm/aarnphm/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!--
