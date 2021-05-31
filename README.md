@@ -14,20 +14,7 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 642 Contributions in the Year 2021
- > 
-> 📦 559.9 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 15 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -48,18 +35,3 @@ Markdown                 1 hr 28 mins        █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<!--
-**aarnphm/aarnphm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
