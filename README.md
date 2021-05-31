@@ -14,7 +14,6 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
 <!--START_SECTION:waka-->
-
 📊 **This Week I Spent My Time On** 
 
 ```text
