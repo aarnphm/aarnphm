@@ -28,9 +28,5 @@ YAML                     2 hrs 23 mins       █░░░░░░░░░░�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/aarnphm/aarnphm/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
