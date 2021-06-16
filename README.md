@@ -1,10 +1,10 @@
 <h2><b>Hi there i'm aaron. </b></h2>
 
-Welcome, hope you enjoy your stay. I'm a software developer who is curious about system design, cognitive system and graph-related topics. I'm currently based at Hanoi, Vietnam, studying engineering [@mcmaster](https://www.mcmaster.ca/).
+Welcome, hope you enjoy your stay. I'm a software developer who is curious about system design, cognitive system and graph-related topics. I'm currently based at Hanoi, Vietnam, studying software engineering [@mcmaster](https://www.mcmaster.ca/).
 
 ```toml
 [personal]
-  bio = "@mcmaster eng '24"
+  bio = "@mcmaster sfwr eng '24"
   current = "@bentoml, @luxcer"
   location = "🇻🇳 🇨🇦"
   name = "Aaron Pham"
