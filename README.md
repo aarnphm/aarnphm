@@ -5,7 +5,7 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 ```toml
 [personal]
   bio = "@mcmaster sfwr eng '24"
-  current = "@bentoml, @luxcer"
+  current = "@bentoml, @mmrt"
   location = "🇻🇳 🇨🇦"
   name = "Aaron Pham"
   pronoun = "he/him"
