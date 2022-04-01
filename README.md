@@ -20,11 +20,10 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Lua                      54 mins             █████████████████████████   99.71% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+Lua                      48 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/03/2022 18:38:09 UTC
+ Last Updated on 01/04/2022 18:38:40 UTC
 <!--END_SECTION:waka-->
