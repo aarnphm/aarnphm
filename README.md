@@ -14,16 +14,21 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 56 mins       ███████████████████░░░░░░   77.75% 
+Nix                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.08% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 ```
 
 
- Last Updated on 06/05/2022 18:38:58 UTC
+ Last Updated on 07/05/2022 18:37:57 UTC
 <!--END_SECTION:waka-->
