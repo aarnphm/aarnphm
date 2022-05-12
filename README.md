@@ -14,7 +14,7 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnphm&layout=compact&hide=css&theme=dark" height="170" />-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,14 +22,14 @@ Welcome, hope you enjoy your stay. I'm a software developer who is curious about
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 56 mins        █████████████████░░░░░░░░   69.75% 
-Nix                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-Lua                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-gitrebase                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Other                    1 hr 26 mins        ███████████████░░░░░░░░░░   63.14% 
+Nix                      36 mins             ██████░░░░░░░░░░░░░░░░░░░   26.37% 
+Lua                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+gitrebase                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 ```
 
 
- Last Updated on 11/05/2022 18:39:10 UTC
+ Last Updated on 12/05/2022 18:40:31 UTC
 <!--END_SECTION:waka-->
