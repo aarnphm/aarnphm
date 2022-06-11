@@ -4,9 +4,10 @@ Welcome internet travellers, hope you enjoy your stay. I'm a software engineer w
 
 ```toml
 [personal]
-  bio = "@mcmaster sfwr eng '24"
+  bio = "@mcmaster sfwr eng '22"
   current = "@bentoml"
-  loc = "sf,california"
-  location = "🇻🇳 🇨🇦"
+  loc = "sf bay, ca"
+  location = "🇻🇳 🇨🇦 🇺🇸"
   name = "Aaron Pham"
   pronoun = "he/him"
+```
